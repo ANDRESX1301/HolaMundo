@@ -2,5 +2,5 @@ Prueba de archivo creado y alojado en la carpeta 2
 
 Prueba cambio 2.0 en archivo de carpeta 2 vamos a ver como lo rastrea
 
------------------------------------------
+-----------------22
 asdasdawddw
