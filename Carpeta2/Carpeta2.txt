@@ -4,4 +4,6 @@ Prueba cambio 2.0 en archivo de carpeta 2 vamos a ver como lo rastrea
 
 -----------------21------------------------
 Prueba de cambios en rama local
+Ahora si yo tengo esta rama y no me interesa recibir el cambio
+Vamos a verlo
 -+-+-+-+--+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
